@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    display: grid;
+    font-family: 'Outfit', sans-serif;
+    height: 100vh;
+    margin: 0;
+    place-items: center;
+    text-align: center;
+    width: 100vw;
+}
+
+h2 {
+    margin: 0 auto;
+    margin-top: 24px;
+    margin-bottom: 16px;
+    max-width: 272px;
+}
+
+p {
+    color: rgb(132, 137, 147);
+    font-size: 15px;
+    margin: 0 auto;
+    max-width: 246px;
+}
+
+img {
+    border-radius: 8px;
+    height: 36vh;
+    max-height: 288px;
+    max-width: 288px;
+    min-height: 171px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.card {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 16px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+    max-height: 497px;
+    max-width: 320px;
+    min-width: 155px;
+    padding: 16px;
+    width: 22vw;
+}
+
+.attribution {
+    bottom: 0;
+    font-size: 15px;
+    padding-bottom: 10px;
+    position: absolute;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+@media screen and (max-height: 555px) {
+    .attribution {
+        visibility: hidden;
+    }
+}
+
+@media screen and (orientation: landscape) and (max-height: 500px) {
+    .card {
+        flex-direction: row;
+        height: 203px;
+        max-width: none;
+        width: fit-content;
+    }
+
+    h2 {
+        margin: 0 auto;
+        margin-left: 24px;
+        margin-right: 16px;
+    }
+}
