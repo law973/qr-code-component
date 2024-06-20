@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Frontend Mentor]([https://www.frontendmentor.io/solutions/qr-code-component-with-responsive-design-for-desktop-and-smartphones-MX2NBCvhFr])
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-with-responsive-design-for-desktop-and-smartphones-MX2NBCvhFr)
 - Live Site URL: [GitHub Pages](https://law973.github.io/qr-code-component/)
 
 ## My process
