@@ -40,7 +40,7 @@ layouts via Flexbox and Grid.
 
 ## Author
 
-- Website - [Levi Wright](https://luxury-flan-09fd6a.netlify.app/)
+- Website - [Levi Wright](https://leviwright.netlify.app/)
 - Frontend Mentor - [@law973](https://www.frontendmentor.io/profile/law973)
 - LinkedIn - [Levi Wright](https://www.linkedin.com/in/levi-arthur-wright/)
 - GitHub - [@law973](https://github.com/law973)
